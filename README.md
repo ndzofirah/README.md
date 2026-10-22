@@ -4,7 +4,7 @@ A hands-on repository for IKB21403 Vulnerability Analysis. Students will find la
 ## List of task
 | Item                                      | Week   | URL |
 |-------------------------------------------|--------|-----|
-| Threat VS Vulnerability                   | Week 1 |https://github.com/ndzofirah/Threats-Vs-Vulnerabilities/blob/52ca5139c0285c4860da34876ef0ce4a493efcdc/W1-Threat-VS-Vulnerability.md|
+| Threat VS Vulnerability                   | Week 1 |https://github.com/ndzofirah/README.md/blob/6fa1a51db9a10c0528cab71f9de1d62150e56026/W1-Threat-VS-Vulnerability.md|
 | Vulnerable Machine: Bluemoon              | Week 2 ||
 | Vulnerable Machine: PwnDrive Academy      | Week 3 ||
 | METADATA                                  | Week 4 ||
